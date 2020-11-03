@@ -23,4 +23,4 @@ names(select_data)[2] = "Activity"
 
 # Creates a second, independent tidy data set
 out_data <- select_data %>% group_by(Subject, Activity) %>% summarise_all(mean)
-write.csv(out_data, file = "output.csv", row.names = FALSE)
+write.table(out_data, file = "output.txt", row.names = FALSE)
