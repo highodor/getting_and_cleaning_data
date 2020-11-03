@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 ## How data was collected
-[full details and dataset source](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[full details and dataset source](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
 30 subjects performed pre-defined activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) while embedded accelerometer and gyroscopea in smartphone captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 For each record it is provided:
